@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/AryanJaiswal763/Leetcode/tree/master/0066-plus-one) |
 | [0952-word-subsets](https://github.com/AryanJaiswal763/Leetcode/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -71,4 +72,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0039-combination-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
