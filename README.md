@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AryanJaiswal763/Leetcode/tree/master/0066-plus-one) |
 | [0952-word-subsets](https://github.com/AryanJaiswal763/Leetcode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AryanJaiswal763/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0018-4sum) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AryanJaiswal763/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AryanJaiswal763/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
