@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AryanJaiswal763/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/AryanJaiswal763/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0415-add-strings) |
 | [0952-word-subsets](https://github.com/AryanJaiswal763/Leetcode/tree/master/0952-word-subsets) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
