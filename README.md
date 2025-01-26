@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AryanJaiswal763/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AryanJaiswal763/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
 | [0952-word-subsets](https://github.com/AryanJaiswal763/Leetcode/tree/master/0952-word-subsets) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/AryanJaiswal763/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/AryanJaiswal763/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
