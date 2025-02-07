@@ -190,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/AryanJaiswal763/Leetcode/tree/master/0480-sliding-window-median) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/AryanJaiswal763/Leetcode/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
