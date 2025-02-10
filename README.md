@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AryanJaiswal763/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/AryanJaiswal763/Leetcode/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/AryanJaiswal763/Leetcode/tree/master/0456-132-pattern) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/AryanJaiswal763/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0415-add-strings) |
+| [3447-clear-digits](https://github.com/AryanJaiswal763/Leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
