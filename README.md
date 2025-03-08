@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AryanJaiswal763/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3429-special-array-i) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/AryanJaiswal763/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/AryanJaiswal763/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/AryanJaiswal763/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/AryanJaiswal763/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Counting
 |  |
 | ------- |
