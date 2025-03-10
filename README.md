@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2383-add-two-integers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2383-add-two-integers) |
