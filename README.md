@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/AryanJaiswal763/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AryanJaiswal763/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0481-magical-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AryanJaiswal763/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AryanJaiswal763/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
