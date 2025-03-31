@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/AryanJaiswal763/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/AryanJaiswal763/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/AryanJaiswal763/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AryanJaiswal763/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AryanJaiswal763/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AryanJaiswal763/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0039-combination-sum) |
 | [1160-letter-tile-possibilities](https://github.com/AryanJaiswal763/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AryanJaiswal763/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
