@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/AryanJaiswal763/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/AryanJaiswal763/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AryanJaiswal763/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
