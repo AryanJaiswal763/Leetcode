@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AryanJaiswal763/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AryanJaiswal763/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/AryanJaiswal763/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AryanJaiswal763/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/AryanJaiswal763/Leetcode/tree/master/0456-132-pattern) |
+| [2280-count-good-triplets-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AryanJaiswal763/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Monotonic Stack
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/AryanJaiswal763/Leetcode/tree/master/0456-132-pattern) |
+| [2280-count-good-triplets-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/AryanJaiswal763/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
@@ -368,4 +371,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AryanJaiswal763/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
