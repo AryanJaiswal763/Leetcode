@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2383-add-two-integers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2383-add-two-integers) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AryanJaiswal763/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/AryanJaiswal763/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AryanJaiswal763/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AryanJaiswal763/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AryanJaiswal763/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Tree
 |  |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AryanJaiswal763/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AryanJaiswal763/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/AryanJaiswal763/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AryanJaiswal763/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/AryanJaiswal763/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AryanJaiswal763/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Divide and Conquer
 |  |
