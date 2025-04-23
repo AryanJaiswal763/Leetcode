@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/AryanJaiswal763/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AryanJaiswal763/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1364-tuple-with-same-product](https://github.com/AryanJaiswal763/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1500-count-largest-group](https://github.com/AryanJaiswal763/Leetcode/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AryanJaiswal763/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AryanJaiswal763/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/AryanJaiswal763/Leetcode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AryanJaiswal763/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
