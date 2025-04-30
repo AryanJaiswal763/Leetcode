@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1364-tuple-with-same-product](https://github.com/AryanJaiswal763/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/AryanJaiswal763/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AryanJaiswal763/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1656-count-good-triplets](https://github.com/AryanJaiswal763/Leetcode/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/AryanJaiswal763/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/AryanJaiswal763/Leetcode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AryanJaiswal763/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
