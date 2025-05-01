@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AryanJaiswal763/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AryanJaiswal763/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AryanJaiswal763/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AryanJaiswal763/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AryanJaiswal763/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AryanJaiswal763/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AryanJaiswal763/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AryanJaiswal763/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AryanJaiswal763/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/AryanJaiswal763/Leetcode/tree/master/0768-partition-labels) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AryanJaiswal763/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/AryanJaiswal763/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/AryanJaiswal763/Leetcode/tree/master/0456-132-pattern) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AryanJaiswal763/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AryanJaiswal763/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -422,9 +426,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AryanJaiswal763/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AryanJaiswal763/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AryanJaiswal763/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AryanJaiswal763/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
