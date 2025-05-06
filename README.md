@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AryanJaiswal763/Leetcode/tree/master/0480-sliding-window-median) |
 | [0854-making-a-large-island](https://github.com/AryanJaiswal763/Leetcode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AryanJaiswal763/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/AryanJaiswal763/Leetcode/tree/master/0952-word-subsets) |
 | [1031-add-to-array-form-of-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AryanJaiswal763/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AryanJaiswal763/Leetcode/tree/master/0480-sliding-window-median) |
 | [0768-partition-labels](https://github.com/AryanJaiswal763/Leetcode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AryanJaiswal763/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/AryanJaiswal763/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/AryanJaiswal763/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AryanJaiswal763/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -386,11 +388,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AryanJaiswal763/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AryanJaiswal763/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AryanJaiswal763/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AryanJaiswal763/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AryanJaiswal763/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AryanJaiswal763/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AryanJaiswal763/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
