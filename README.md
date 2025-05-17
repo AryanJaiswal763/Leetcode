@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0039-combination-sum) |
 | [0057-insert-interval](https://github.com/AryanJaiswal763/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AryanJaiswal763/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/AryanJaiswal763/Leetcode/tree/master/0368-largest-divisible-subset) |
