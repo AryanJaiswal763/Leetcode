@@ -1,18 +1,21 @@
 class Solution {
 public:
     string triangleType(vector<int>& nums) {
-        
-       if(nums[0] + nums[1] > nums[2] && nums[1] + nums[2] > nums[0] && nums[2] + nums[0] > nums[1])
-       {
-        if(nums[0]==nums[1] && nums[1]==nums[2])
-        return "equilateral";
-        
-        if(nums[0]!=nums[1] && nums[0]!=nums[2] && nums[1]!=nums[2])
-        return "scalene";
+    
+    int a=nums[0], b=nums[1], c=nums[2];
+    vector<string>ans={"equilateral", "isosceles", "scalene","none"};
 
-        return "isosceles";
+    if(a+b>c && a+c>b && b+c>a)
+    {
+        if(a==b && b==c)
+        return ans[0];
 
-       }
-      return "none";
+        if(a!=b && b!=c && a!=c)
+        return ans[2];
+
+        return ans[1];
+    }
+
+    return ans[3];
     }
 };
