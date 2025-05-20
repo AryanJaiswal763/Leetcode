@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AryanJaiswal763/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AryanJaiswal763/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AryanJaiswal763/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AryanJaiswal763/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/AryanJaiswal763/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Number Theory
 |  |
 | ------- |
