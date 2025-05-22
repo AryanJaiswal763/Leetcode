@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0480-sliding-window-median](https://github.com/AryanJaiswal763/Leetcode/tree/master/0480-sliding-window-median) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0481-magical-string) |
 | [0768-partition-labels](https://github.com/AryanJaiswal763/Leetcode/tree/master/0768-partition-labels) |
