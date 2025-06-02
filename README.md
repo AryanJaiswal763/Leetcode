@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/AryanJaiswal763/Leetcode/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AryanJaiswal763/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AryanJaiswal763/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/AryanJaiswal763/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/AryanJaiswal763/Leetcode/tree/master/0621-task-scheduler) |
