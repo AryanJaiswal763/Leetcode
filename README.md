@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/AryanJaiswal763/Leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanJaiswal763/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/AryanJaiswal763/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3618-find-the-original-typed-string-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/AryanJaiswal763/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AryanJaiswal763/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/AryanJaiswal763/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
