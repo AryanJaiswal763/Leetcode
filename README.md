@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0480-sliding-window-median](https://github.com/AryanJaiswal763/Leetcode/tree/master/0480-sliding-window-median) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AryanJaiswal763/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0415-add-strings) |
 | [0481-magical-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0481-magical-string) |
 | [0768-partition-labels](https://github.com/AryanJaiswal763/Leetcode/tree/master/0768-partition-labels) |
