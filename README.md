@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AryanJaiswal763/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0039-combination-sum) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AryanJaiswal763/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AryanJaiswal763/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/AryanJaiswal763/Leetcode/tree/master/0058-length-of-last-word) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AryanJaiswal763/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AryanJaiswal763/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/AryanJaiswal763/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
