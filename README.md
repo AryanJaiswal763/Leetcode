@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/AryanJaiswal763/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/AryanJaiswal763/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AryanJaiswal763/Leetcode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0415-add-strings) |
 | [0481-magical-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0481-magical-string) |
 | [0768-partition-labels](https://github.com/AryanJaiswal763/Leetcode/tree/master/0768-partition-labels) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0481-magical-string) |
 | [0768-partition-labels](https://github.com/AryanJaiswal763/Leetcode/tree/master/0768-partition-labels) |
