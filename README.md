@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AryanJaiswal763/Leetcode/tree/master/0621-task-scheduler) |
 | [0854-making-a-large-island](https://github.com/AryanJaiswal763/Leetcode/tree/master/0854-making-a-large-island) |
+| [0890-lemonade-change](https://github.com/AryanJaiswal763/Leetcode/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AryanJaiswal763/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/AryanJaiswal763/Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AryanJaiswal763/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/AryanJaiswal763/Leetcode/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/AryanJaiswal763/Leetcode/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/AryanJaiswal763/Leetcode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/AryanJaiswal763/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2032-largest-odd-number-in-string) |
