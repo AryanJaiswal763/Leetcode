@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/AryanJaiswal763/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AryanJaiswal763/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/AryanJaiswal763/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/AryanJaiswal763/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AryanJaiswal763/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AryanJaiswal763/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AryanJaiswal763/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/AryanJaiswal763/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/AryanJaiswal763/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2689-rearranging-fruits](https://github.com/AryanJaiswal763/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/AryanJaiswal763/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AryanJaiswal763/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AryanJaiswal763/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/AryanJaiswal763/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/AryanJaiswal763/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AryanJaiswal763/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AryanJaiswal763/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AryanJaiswal763/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/AryanJaiswal763/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2689-rearranging-fruits](https://github.com/AryanJaiswal763/Leetcode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AryanJaiswal763/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AryanJaiswal763/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AryanJaiswal763/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
