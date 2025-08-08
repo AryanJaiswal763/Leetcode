@@ -59,3 +59,19 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
+<!---LeetCode Topics End-->
