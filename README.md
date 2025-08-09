@@ -65,6 +65,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
 ## Dynamic Programming
 |  |
@@ -74,4 +75,12 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
