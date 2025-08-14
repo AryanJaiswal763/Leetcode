@@ -110,4 +110,8 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2529-range-product-queries-of-powers) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
