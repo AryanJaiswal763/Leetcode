@@ -68,6 +68,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,4 +115,8 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
