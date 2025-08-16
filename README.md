@@ -66,6 +66,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/1448-maximum-69-number) |
@@ -82,11 +83,13 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
