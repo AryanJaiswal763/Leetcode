@@ -68,17 +68,20 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0867-new-21-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,4 +125,8 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/1448-maximum-69-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
