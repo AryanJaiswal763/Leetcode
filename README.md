@@ -67,6 +67,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | ------- |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -112,6 +113,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Array
 |  |
 | ------- |
+| [0679-24-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0679-24-game) |
 | [2529-range-product-queries-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
@@ -129,4 +131,8 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
