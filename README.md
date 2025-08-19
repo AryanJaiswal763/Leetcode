@@ -65,6 +65,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0679-24-game) |
@@ -114,6 +115,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0679-24-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0679-24-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AryanJaiswal763/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2529-range-product-queries-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -141,4 +143,5 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
