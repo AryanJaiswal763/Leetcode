@@ -67,6 +67,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | ------- |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
@@ -88,6 +89,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
@@ -98,10 +100,12 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
@@ -116,6 +120,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AryanJaiswal763/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0679-24-game) |
@@ -147,4 +152,8 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
