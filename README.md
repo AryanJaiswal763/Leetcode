@@ -128,6 +128,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0001-two-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/AryanJaiswal763/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AryanJaiswal763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
@@ -175,4 +176,12 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanJaiswal763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AryanJaiswal763/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AryanJaiswal763/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
