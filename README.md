@@ -65,6 +65,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AryanJaiswal763/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
@@ -127,6 +128,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | ------- |
 | [0001-two-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/AryanJaiswal763/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AryanJaiswal763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AryanJaiswal763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
@@ -179,6 +181,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AryanJaiswal763/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AryanJaiswal763/Leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
