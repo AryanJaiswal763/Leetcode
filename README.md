@@ -104,6 +104,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0001-two-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/AryanJaiswal763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
@@ -133,12 +134,14 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AryanJaiswal763/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/AryanJaiswal763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0679-24-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0679-24-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AryanJaiswal763/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2529-range-product-queries-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AryanJaiswal763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2529-range-product-queries-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## String
 |  |
