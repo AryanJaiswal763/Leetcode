@@ -105,6 +105,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Counting
@@ -119,6 +120,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0283-move-zeroes) |
@@ -150,6 +152,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
