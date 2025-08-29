@@ -77,6 +77,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AryanJaiswal763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -125,6 +126,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | ------- |
 | [0001-two-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/AryanJaiswal763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
@@ -168,5 +170,6 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AryanJaiswal763/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
