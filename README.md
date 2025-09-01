@@ -65,6 +65,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AryanJaiswal763/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
@@ -97,6 +98,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AryanJaiswal763/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
@@ -197,6 +199,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AryanJaiswal763/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AryanJaiswal763/Leetcode/tree/master/0908-middle-of-the-linked-list) |
