@@ -97,6 +97,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AryanJaiswal763/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AryanJaiswal763/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AryanJaiswal763/Leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
@@ -194,5 +195,6 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/AryanJaiswal763/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AryanJaiswal763/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
