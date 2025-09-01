@@ -108,6 +108,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0001-two-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AryanJaiswal763/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanJaiswal763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -174,6 +175,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AryanJaiswal763/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/AryanJaiswal763/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -201,6 +203,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | ------- |
 | [0002-add-two-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AryanJaiswal763/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AryanJaiswal763/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AryanJaiswal763/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
