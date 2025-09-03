@@ -80,6 +80,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanJaiswal763/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanJaiswal763/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0867-new-21-game) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/AryanJaiswal763/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -140,6 +141,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0054-spiral-matrix](https://github.com/AryanJaiswal763/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanJaiswal763/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
