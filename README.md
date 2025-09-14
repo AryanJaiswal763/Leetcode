@@ -66,6 +66,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AryanJaiswal763/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/AryanJaiswal763/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AryanJaiswal763/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
@@ -109,6 +110,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanJaiswal763/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/AryanJaiswal763/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -171,6 +173,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AryanJaiswal763/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AryanJaiswal763/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AryanJaiswal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
