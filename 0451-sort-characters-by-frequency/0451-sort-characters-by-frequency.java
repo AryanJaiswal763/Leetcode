@@ -15,7 +15,7 @@ class Solution {
            arr[ch]++;
         }
 
-       LinkedList<Pair>list=new LinkedList<>();
+       List<Pair>list=new ArrayList<>();
 
        for(int i=48;i<=122;i++){
          if(arr[i]>0)
