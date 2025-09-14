@@ -3,12 +3,12 @@ class Solution {
         
         int count=0;
         int maxCount=0;
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='('){
+        for(char ch: s.toCharArray()){
+            if(ch=='('){
             count++;
             maxCount=Math.max(count,maxCount);
             }
-            if(s.charAt(i)==')')
+            if(ch==')')
             count--;
         }
 
