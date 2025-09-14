@@ -117,6 +117,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0451-sort-characters-by-frequency](https://github.com/AryanJaiswal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanJaiswal763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/AryanJaiswal763/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +133,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/AryanJaiswal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/AryanJaiswal763/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Enumeration
 |  |
 | ------- |
@@ -170,6 +172,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0151-reverse-words-in-a-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AryanJaiswal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AryanJaiswal763/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/AryanJaiswal763/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AryanJaiswal763/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
