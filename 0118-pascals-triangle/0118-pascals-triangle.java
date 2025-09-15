@@ -1,27 +1,35 @@
 class Solution {
-    public List<List<Integer>> generate(int rows) {
-       
-        List<List<Integer>> arr= new ArrayList<>();
-        arr.add(new ArrayList<>(Arrays.asList(1)));
-        if(rows==1)
-        return arr;
+    public List<List<Integer>> generate(int numRows) {
+        
+        List<List<Integer>>list=new ArrayList<>();
 
-        for(int i=0; i<rows-1; i++)
-        {
-            List<Integer>a=new ArrayList<>();
-            a.add(1);
-            
-            int x=0, y=1;
-            
-            while(y<arr.get(i).size()){
-                a.add(arr.get(i).get(x)+arr.get(i).get(y));
-                x++;
-                y++;
-            }
-            a.add(1);
-            arr.add(a);
+        List<Integer>list1=new ArrayList<>();
+        list1.add(1);
+        list.add(list1);
+
+        if(numRows==1)
+        return list;
+
+        int i=0;
+        while(i<numRows-1){
+
+             int x=0,y=1;
+             List<Integer>arr=new ArrayList<>();
+             arr.add(1);
+
+             while(y<list.get(i).size()){
+               arr.add(list.get(i).get(x)+list.get(i).get(y));
+               x++;
+               y++;
+             }
+
+             arr.add(1);
+             list.add(arr);
+
+          i++;
         }
 
-        return arr;
+
+         return list;
     }
 }
