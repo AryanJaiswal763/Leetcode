@@ -9,29 +9,22 @@ class Solution {
         int end=intervals[0][1];
         List<List<Integer>>list=new ArrayList<>();
 
-        for(int i=0;i<intervals.length-1;i++){
+        for(int i=1;i<intervals.length;i++){
 
-           if(intervals[i+1][0]<=end){
-            start=Math.min(start,intervals[i+1][0]);
-            end=Math.max(end,intervals[i+1][1]);
+           if(intervals[i][0]<=end){
+            start=Math.min(start,intervals[i][0]);
+            end=Math.max(end,intervals[i][1]);
            }
 
            else{
                 list.add(Arrays.asList(start,end));
-                start=intervals[i+1][0];
-                end=intervals[i+1][1];
+                start=intervals[i][0];
+                end=intervals[i][1];
            }
         }
-
-        if(start<=intervals[intervals.length-2][1]){
-            start=Math.min(start,intervals[intervals.length-2][0]);
-            end=Math.max(end,intervals[intervals.length-2][1]);
-            list.add(Arrays.asList(start,end));
-        }
-        else{
-             list.add(Arrays.asList(start,end));
-        }
         
+             list.add(Arrays.asList(start,end));
+    
         int row=list.size(),col=2;
         int[][] arr=new int[row][col];
         for(int i=0;i<row;i++){
