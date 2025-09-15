@@ -117,6 +117,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0141-linked-list-cycle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AryanJaiswal763/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AryanJaiswal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/AryanJaiswal763/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +129,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AryanJaiswal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -135,6 +137,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AryanJaiswal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/AryanJaiswal763/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/AryanJaiswal763/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -157,6 +160,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0128-longest-consecutive-sequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/AryanJaiswal763/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AryanJaiswal763/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AryanJaiswal763/Leetcode/tree/master/0485-max-consecutive-ones) |
