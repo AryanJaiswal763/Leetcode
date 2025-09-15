@@ -82,6 +82,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanJaiswal763/Leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanJaiswal763/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0826-soup-servings](https://github.com/AryanJaiswal763/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/AryanJaiswal763/Leetcode/tree/master/0867-new-21-game) |
@@ -156,6 +157,7 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 | [0073-set-matrix-zeroes](https://github.com/AryanJaiswal763/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AryanJaiswal763/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AryanJaiswal763/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AryanJaiswal763/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AryanJaiswal763/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AryanJaiswal763/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AryanJaiswal763/Leetcode/tree/master/0169-majority-element) |
