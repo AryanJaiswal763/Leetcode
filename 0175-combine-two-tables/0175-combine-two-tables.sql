@@ -2,4 +2,4 @@
 select Person.firstName, Person.lastName, Address.city, Address.state
 from Person
 Left outer join Address
-using (personId)
+on Person.personId=address.personId
