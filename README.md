@@ -263,4 +263,8 @@ This repo documents my consistent efforts to improve DSA and ace coding intervie
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AryanJaiswal763/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AryanJaiswal763/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
